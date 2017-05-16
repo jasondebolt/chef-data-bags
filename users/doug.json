@@ -1,0 +1,12 @@
+{
+  "id": "doug",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCc+eY49M007VJ1+F4EPQ3B3gaJTOsW84zkgNeva2KNlspSYUyZBv4AqUXJPoxjDZoBkQepOv44Mrpz0+6W6tyfOPDmjhDckWrLU6tempuUNyl6z3ABcjWYzxWu9x0rpN9QaBVGBXu/vc06Nu6MzCTVeWpw3+IybtmeHdYqIZmTH0jwSN44XN6BzbxOytD+UFKQqU4gUX+e6XueYSU1SYl3Ab1+X0Ez77ZYoo4jdZzpt4GKuxJiGnMtMo9vL7P2sjSmoUyHLW2fAsh66llm9QhHhR5wPkNe8hDVXHMm7IgCXir6EG6NsiHUUGYt3WGMiQ4QXGWQdK+/dktGy0d841tVfXenvMLTxpv5khVCx7wsVHVX5hUAwd7gbKNH0kmgYp49hmC3OrXscKpiUnGkGlOnIeQ5woe0AtDpgDWLU5ub9MPBpafB4E+ZecXDMzj+uObqTOEC4kBf/JmhH1tcFDWqUrPBPqZuusWnMA2L/0IUDVW1k5CN+jecUIYDLbZIKbOumAJKBVqDln6N+G7ninI7i2jVneqhnUB+efW7GlP2B39phSY5qQeSlRp08XIplbkjvzb2Me+7mzrpMEo7UH3L+ndLa4qWM6D2YIvv6AAcvfrj+NDVhG9jg3ufnHeNwd7OoQroOC04nko8VkySTzMynlQ6WOuQ3QFeCgeXcUYudw== jasondebolt@gmail.com"
+  ],
+  "groups": [ "rockstars" ],
+  "uid": 2002,
+  "gid": 2002,
+  "dotfiles-repo": "https://github.com/jasondebolt/dotfiles",
+  "shell": "/bin/bash",
+  "comment": "Doug Smith"
+}
