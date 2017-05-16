@@ -9,6 +9,11 @@ Creating the users data bag on the chef server from an existing users directory.
   $ knife data bag from file {bag} {item1} {item2} ...
   $ knife data bag from file users data_bags/users/jason.json data_bags/users/doug.json
 
+Viewing data bags:
 $ knife data bag list
 $ knife data bag show users
 $ knife data bag show users/jason
+
+Searching the data bags:
+$ knife search users "*:*"
+$ knife search users "id:jason"
